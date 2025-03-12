@@ -4,7 +4,7 @@
 ### REGISTER NUMBER : 
 
 ### AIM:  
-To write python programs for do…while, while, for, switch and if…else and test with possible test 
+To write python programs for do…while, while, for, switch and if…else and test with possible test
 Cases 
 
 ### Algorithm:
